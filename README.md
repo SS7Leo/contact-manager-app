@@ -87,5 +87,8 @@ contact-manager-app/
 
 ## Output
 
-
-
+![Image](https://github.com/user-attachments/assets/0bae3a6b-655c-4f2d-8e06-a3f8cb998f32)
+![Image](https://github.com/user-attachments/assets/58458a8f-1850-4a3d-8cc7-6eb7544fa930)
+![Image](https://github.com/user-attachments/assets/3dc4b04c-a5ee-4527-bc0c-6ef581e02773)
+![Image](https://github.com/user-attachments/assets/2ae4ebad-f0e2-4c6c-9639-dc43e0efa018)
+![Image](https://github.com/user-attachments/assets/5d76f7f0-fb43-4271-b63c-c6be1d6cb226)
